@@ -1,0 +1,33 @@
+2019-03-04 20:35:14,603-BrowserEngine-INFO-Chrome
+2019-03-04 20:35:17,888-BrowserEngine-INFO-打开谷歌
+2019-03-04 20:35:23,705-BrowserEngine-INFO-打开网站：http://127.0.0.1/forum.php
+2019-03-04 20:35:26,040-DiscuzPage1-INFO-输入用户名：
+2019-03-04 20:36:25,323-BrowserEngine-INFO-关闭浏览器
+2019-03-04 20:36:27,545-BrowserEngine-INFO-Chrome
+2019-03-04 20:36:30,134-BrowserEngine-INFO-打开谷歌
+2019-03-04 20:36:35,675-BrowserEngine-INFO-打开网站：http://127.0.0.1/forum.php
+2019-03-04 20:38:01,242-DiscuzPage2-INFO-进入新板块
+2019-03-04 20:38:03,446-DiscuzPage2-INFO-发表主题
+2019-03-04 20:38:37,461-BrowserEngine-INFO-关闭浏览器
+2019-03-04 20:38:39,709-BrowserEngine-INFO-Chrome
+2019-03-04 20:38:42,500-BrowserEngine-INFO-打开谷歌
+2019-03-04 20:38:43,879-BrowserEngine-INFO-打开网站：http://127.0.0.1/forum.php
+2019-03-04 20:38:53,130-Discuz3Page-INFO-断言成功：haotest
+2019-03-04 20:38:55,130-BrowserEngine-INFO-关闭浏览器
+2019-03-04 20:38:57,343-BrowserEngine-INFO-Chrome
+2019-03-04 20:39:00,051-BrowserEngine-INFO-打开谷歌
+2019-03-04 20:39:01,358-BrowserEngine-INFO-打开网站：http://127.0.0.1/forum.php
+2019-03-04 20:39:02,870-DiscuzPage4-INFO-登陆
+2019-03-04 20:39:09,506-DiscuzPage4-INFO-默认板块
+2019-03-04 20:39:16,715-DiscuzPage4-INFO-发帖
+2019-03-04 20:39:21,794-DiscuzPage4-INFO-发起投票
+2019-03-04 20:39:22,204-DiscuzPage4-INFO-主题
+2019-03-04 20:39:22,754-DiscuzPage4-INFO-点击投票
+2019-03-04 20:39:31,229-DiscuzPage4-INFO-第一个选项：1.  窗口跳转
+2019-03-04 20:39:31,229-DiscuzPage4-INFO-第一个比率：100.00% (1)
+2019-03-04 20:39:31,229-DiscuzPage4-INFO-第一个选项：2.  ifram定位
+2019-03-04 20:39:31,229-DiscuzPage4-INFO-第一个比率：0.00% (0)
+2019-03-04 20:39:31,229-DiscuzPage4-INFO-第一个选项：3.  log日志
+2019-03-04 20:39:31,229-DiscuzPage4-INFO-第一个比率：0.00% (0)
+2019-03-04 20:39:31,230-DiscuzPage4-INFO-主题：今天出了什么毛病
+2019-03-04 20:39:33,245-BrowserEngine-INFO-关闭浏览器

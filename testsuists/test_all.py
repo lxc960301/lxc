@@ -2,7 +2,7 @@ import unittest
 import HTMLTestRunner
 import os
 import sys
-sys.path.append("E:\04\04python\Discuz")
+sys.path.append("E:/04/04python/Discuz")
 from testsuists.test_discuz1 import Discuz1TestCase
 from testsuists.test_discuz2 import Discuz2TestCase
 from testsuists.test_discuz3 import Discuz3TestCase
